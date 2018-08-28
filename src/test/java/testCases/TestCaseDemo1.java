@@ -27,6 +27,11 @@ public class TestCaseDemo1 extends BaseClass {
 
 		System.out.println("testCase3 Method");
 
+	}@Test
+	public void testCase4() {
+
+		System.out.println("testCase4 Method");
+
 	}
 
 }
